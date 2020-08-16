@@ -1,5 +1,3 @@
-# 2020-08-16 Bowen Chiu
-
 module CameoParquet
 
 export greet, read_parquet, to_parquet, to_datetime!, to_string!
