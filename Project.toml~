@@ -1,6 +1,6 @@
 name = "CameoParquet"
 uuid = "ea51360d-d802-4410-8b56-f61ee90ebeb4"
-authors = ["Bowen Chiu <cbh@cameo.tw>"]
+authors = ["WengRoy <wengroy@cameo.tw>"]
 version = "0.1.0"
 
 [deps]
